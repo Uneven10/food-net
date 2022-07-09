@@ -1,0 +1,99 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.orange-color {
+  color: orange;
+}
+
+/* (((((((((((((((( Header Part )))))))))))))))) */
+
+.header {
+  margin-left: 115px;
+}
+.diet-part {
+  margin-top: 100px;
+}
+.image-part {
+  text-align: center;
+  margin-top: 30px;
+}
+h1 {
+  /* margin-left: 115px; */
+  text-align: start;
+  font-size: 60px;
+  color: rgba(69, 64, 64, 0.996);
+}
+p {
+  /* margin-left: 115px; */
+  text-align: start;
+  color: rgb(95, 93, 93);
+  padding: 0px 0px 5px;
+}
+.btn {
+  /* margin-left: 115px; */
+  text-align: start;
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(to right, orange, tomato);
+  font-size: 20px;
+  padding: 10px 40px;
+  border-radius: 30px;
+}
+
+/* (((((((((((((((((((((((( About part ))))))))))))))))))))))) */
+
+/* .about-image-part {
+  text-align: center;
+}
+img {
+} */
+
+.col-1 {
+  width: 8.33%;
+  float: left;
+}
+.col-2 {
+  width: 16.66%;
+  float: left;
+}
+.col-3 {
+  width: 25%;
+  float: left;
+}
+.col-4 {
+  width: 33.33%;
+  float: left;
+}
+.col-5 {
+  width: 41.66%;
+  float: left;
+}
+.col-6 {
+  width: 50%;
+  float: left;
+}
+.col-7 {
+  width: 58.33%;
+  float: left;
+}
+.col-8 {
+  width: 66.66%;
+  float: left;
+}
+.col-9 {
+  width: 75%;
+  float: left;
+}
+.col-10 {
+  width: 83.33%;
+  float: left;
+}
+.col-11 {
+  width: 91.66%;
+  float: left;
+}
+.col-12,
+.row {
+  width: 100%;
+  float: left;
+}
